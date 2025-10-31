@@ -1,0 +1,12 @@
+id_campanha,canal,publico_alvo,taxa_resposta,custo,sucesso
+1,Email,Jovens Adultos,22.5,1500,1
+2,Instagram,Jovens Adultos,34.2,2500,1
+3,SMS,Adultos,9.4,800,0
+4,Facebook,Idosos,12.1,1200,0
+5,WhatsApp,Jovens Adultos,40.8,2000,1
+6,TV,Adultos,7.3,3500,0
+7,Email,Idosos,18.9,1600,1
+8,Instagram,Jovens,36.7,2700,1
+9,Rádio,Idosos,5.8,700,0
+10,WhatsApp,Adultos,28.3,1800,1
+
